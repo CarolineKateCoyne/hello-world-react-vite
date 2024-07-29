@@ -1,6 +1,6 @@
 # Kinsta - Hello World - Vite + React
 
-An example of how to deploy a Vite + React App on Kinsta.
+An example of how to deploy a Vite + React site on Kinsta.
 
 ---
 
